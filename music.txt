@@ -1,0 +1,4 @@
+Blacklist; Hyuna; 320 kbps; 100;
+New Face; PSY; 320 kbps; 1002;
+Playing with fire; Blackpink; 320 kbps; 200;
+Burning love; Elvis Presley; 280 kbps; 1203;
